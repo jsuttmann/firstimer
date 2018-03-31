@@ -1,0 +1,10 @@
+Nothing special.  Created a local branch called "localTestBranch", committed the branch to Github, created this file locally, and will stage/commit to Github.
+
+Confirm:
+1. File is added to Github
+2. File is ONLY visible on Github in the localTestBranch branch and NOT in the master.
+
+Once confirmed:
+3. Merge localTestBranch to master
+4. Delete localTestBranch on Github
+5. Refresh locally and confirm localTestBranch is deleted and we're once again editing in master.
